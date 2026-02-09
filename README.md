@@ -2,6 +2,10 @@
 
 This repository features two specialized Deep Learning models developed to enhance agricultural productivity through automated monitoring. Using **Computer Vision**, these models can be integrated into drone systems or mobile apps to detect plant pathologies and pest infestations in real-time.
 
+## Datasets Used
+* **PlantVillage Dataset:** Comprehensive dataset of healthy and diseased crop leaves. [Access here](https://www.kaggle.com/datasets/mohitsingh1804/plantvillage)
+* **IP102:** Specialized collection for agricultural pest identification. [Access here](https://www.kaggle.com/datasets/rtlmhjbn/ip02-dataset)
+
 ## Technical Highlights
 
 ### 1. Plant Disease Classification (Transfer Learning)
